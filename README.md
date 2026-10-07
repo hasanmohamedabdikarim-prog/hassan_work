@@ -4,7 +4,7 @@ My Python practice from my BSc Artificial Intelligence and Data Science studies 
 
 ## Files
 - `hello.py`: my first Python program
-- `np,pd,plt_test.py`: tests NumPy, pandas and Matplotlib
+- `np_pd_plt_test.py`: tests NumPy, pandas and Matplotlib
 
 ## Goals
 - Learn Python step by step
