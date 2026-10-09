@@ -1,3 +1,7 @@
+
+#PYTHON PRACTICE 
+#DATA TYPES
+
 name =  str ("Hassan")
 age  =  str ("how old  i'm")
 age  =  int (24)
